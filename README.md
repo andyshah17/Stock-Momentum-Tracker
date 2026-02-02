@@ -16,3 +16,10 @@ Full stack project with a frontend and backend.
 1. cd frontend
 2. install dependencies
 3. start the client
+## Tech Stack
+Frontend: React  
+Backend: Node.js, Express  
+Data: Historical market price data
+
+## Purpose
+Explore momentum based signals and visualize market trends.
